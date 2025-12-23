@@ -1,12 +1,19 @@
-# AdAway / Pi-hole custom hosts
-# Rule34video ads (safe)
+# ==================================================
+# AdAway custom hosts
+# Safe ads blocking for rule34video.com
+# Does NOT block video / image / CDN
+# ==================================================
 
 0.0.0.0 s.8jfbt5va3r.com
 0.0.0.0 s.ku34bh9la09.com
 0.0.0.0 t.bawafx.com
 0.0.0.0 t.hrtyj.com
+
+# Google tracking
 0.0.0.0 googletagmanager.com
 0.0.0.0 google-analytics.com
+
+# External ads / promo
 0.0.0.0 theporndude.com
 0.0.0.0 spankurbate.com
 0.0.0.0 rule34comic.party
