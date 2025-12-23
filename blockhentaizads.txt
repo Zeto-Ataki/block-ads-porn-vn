@@ -1,9 +1,12 @@
-s.8jfbt5va3r.com
-s.ku34bh9la09.com
-t.bawafx.com
-t.hrtyj.com
-googletagmanager.com
-google-analytics.com
-theporndude.com
-spankurbate.com
-rule34comic.party
+# AdAway / Pi-hole custom hosts
+# Rule34video ads (safe)
+
+0.0.0.0 s.8jfbt5va3r.com
+0.0.0.0 s.ku34bh9la09.com
+0.0.0.0 t.bawafx.com
+0.0.0.0 t.hrtyj.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 google-analytics.com
+0.0.0.0 theporndude.com
+0.0.0.0 spankurbate.com
+0.0.0.0 rule34comic.party
