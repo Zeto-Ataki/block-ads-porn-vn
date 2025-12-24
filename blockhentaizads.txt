@@ -14,3 +14,7 @@
 0.0.0.0 theporndude.com
 0.0.0.0 spankurbate.com
 0.0.0.0 rule34comic.party
+# Block hentaiz ads
+0.0.0.0 entitlements.jwplayer.com
+0.0.0.0 vast.freeplayer.click
+0.0.0.0 ads.x-cdn.org
