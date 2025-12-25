@@ -3,18 +3,33 @@
 # Safe ads blocking for rule34video.com
 # Does NOT block video / image / CDN
 # ==================================================
+
+# --- Affiliate / redirect ---
 0.0.0.0 s.8jfbt5va3r.com
 0.0.0.0 s.ku34bh9la09.com
 0.0.0.0 t.bawafx.com
 0.0.0.0 t.hrtyj.com
-# Google tracking
-0.0.0.0 googletagmanager.com
-0.0.0.0 google-analytics.com
-# External ads / promo
+
+# --- External ads / promo ---
 0.0.0.0 theporndude.com
 0.0.0.0 spankurbate.com
+0.0.0.0 ruconcac.com
 0.0.0.0 rule34comic.party
-# Block hentaiz ads
+
+# --- AI / ad promos ---
+0.0.0.0 rule34gen.com
+0.0.0.0 bawafx.com
+0.0.0.0 hrtyj.com
+
+# --- Google tracking ---
+0.0.0.0 googletagmanager.com
+0.0.0.0 google-analytics.com
+0.0.0.0 analytics.google.com
+0.0.0.0 stats.g.doubleclick.net
+
+# --- Video ads / VAST ---
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 vast.freeplayer.click
 0.0.0.0 ads.x-cdn.org
+0.0.0.0 ads.videoadex.com
+0.0.0.0 cdn.videoadex.com
